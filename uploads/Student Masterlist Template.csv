@@ -1,0 +1,6 @@
+LRN,First Name,Middle Name,Last Name,Date of Birth (DD-MM-YYYY),Strand,StrID,Section,SecID,Classification,CID,Username,Password,Sex,Contact,Email Address,Guardian Name,Guardian Contact Number
+653456454364,Eugene,,Caleb,01/01/2000,STEM,1,,,Regular,1,653456454364,20000101,Male,09123456789,eugune.c@gmail.com,,
+789878978977,Keneth,,Tanio,14/02/2000,ABM,2,Ayala,5,Regular,1,789878978977,20000214,Male,09876543212,keneth.t@gmail.com,,
+245657686756,Alice,,Cruz,23/05/2000,TVL - ICT,5,Torres,6,Regular,1,245657686756,20000523,Male,09123456789,alice.cruz@gmail.com,,
+574635676554,Patrick,,Sudario,05/11/2000,TVL - HE,4,Daza,7,Regular,1,574635676554,20001105,Male,09123456789,pat.sudario@gmail.com,,
+757856757575,Bob,,Catapang,01/12/2000,HUMSS,3,Dela Rama,3,Irregular,2,757856757575,20001201,Male,09123456789,bob.catapang@gmail.com,,
